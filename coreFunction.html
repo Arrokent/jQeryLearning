@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://s3.pstatp.com/cdn/expire-1-M/jquery/3.3.1/jquery.min.js"></script>
+
+    <script>
+
+        $(function (ev) {
+            // $() is the core function, which means jQuery()
+            // $() can accept 1. a function, 2. a string, 3 a DOM element
+
+            // 1. accept a function
+            // $(function (ev)) {}
+
+            // 2. accept a string
+            // 2.1 a string selector
+            var box1 = $("#div1");
+            console.log(box1);
+
+            var box2 = $(".div2");
+            console.log(box2);
+
+            // 2.2 a string element
+            var newp = $("<p>sb</p>");
+            box1.append(newp);
+
+            // 3. accept a DOM element
+            var divElement = document.getElementById("div3");
+            var box3 = $(divElement);
+            console.log(box3);
+        })
+
+    </script>
+</head>
+<body>
+
+<div id="div1"></div>
+<div class="div2"></div>
+<div id="div3"></div>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://s3.pstatp.com/cdn/expire-1-M/jquery/3.3.1/jquery.min.js"></script>
+
+    <script>
+        // js
+        window.onload = function (ev) {
+            alert('hello js');
+        }
+
+        // jQuery
+        $(document).ready(function (ev) {
+            alert('hello jQuery')
+        })
+
+        $(function (ev) {
+            alert('hello jQuery2')
+        })
+
+        $(function (ev) {
+            alert('hello jQuery2')
+        })
+
+        // If $ conflict
+        // 1.free $
+        jQuery.noConflict();
+        // 2.make other symbol to be jQuery
+        var sb = jQuery.noConflict();
+    </script>
+</head>
+<body>
+
+</body>
+</html>
