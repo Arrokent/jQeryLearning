@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jquery-3.5.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery-3.5.1.min.js" afterDir="false" />
+    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreFunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/coreFunction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/startup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.html" beforeDir="false" afterPath="$PROJECT_DIR$/temp.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +48,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -71,8 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1605795040283</updated>
       <workItem from="1605795041509" duration="1317000" />
-      <workItem from="1605832085407" duration="3438000" />
+      <workItem from="1605832085407" duration="8800000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1605842450593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605842450593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +96,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="598" y="254" key="#Web_Browsers" timestamp="1605832968592">
       <screen x="0" y="0" width="1536" height="864" />
@@ -100,6 +111,10 @@
     </state>
     <state x="369" y="136" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605832097311" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605795163568" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605842516217">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605842516217" />
     <state x="438" y="165" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605796345086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

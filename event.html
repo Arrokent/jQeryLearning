@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- <script src="https://s3.pstatp.com/cdn/expire-1-M/jquery/3.3.1/jquery.min.js"></script> -->
+    <script src="jquery-3.5.1.js"></script>
+
+    <script>
+
+        // example
+        $(function (ev) {
+
+            // click function need one para-- a function para
+            $("p").click(function (e) {
+                alert('click the p');
+            });
+
+            // this hover function need two para-- function(),function()
+            $("p").hover(
+                function(){
+                    var newp = $("<p id=\"np\">here</p>");
+                    $("#box1").append(newp);
+                },
+                function(){
+                    $("#np").remove();
+                }
+            );
+
+        })
+
+
+        // 1.ready
+        // 2.click
+        // 3.dblclick()
+        // 4.mouseenter() 鼠标触及元素
+        // 5.mouseleave() 鼠标离开元素
+        // 6.mousedown()
+        // 7.mouseup()
+        // 8.hover 鼠标悬停
+
+    </script>
+</head>
+<body>
+
+<div id="box1">
+    <p>hello hello hello hello</p>
+</div>
+
+</body>
+</html>
