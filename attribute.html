@@ -8,19 +8,14 @@
 
     <script>
 
-        // 不立刻执行hold函数
-        $.holdReady(true);
         $(function (ev) {
-            alert('hello')
+            $("#id").attr("name", "sb");
+            console.log($("#id"));
         })
-
-        function h() {
-            $.holdReady(false);
-        }
 
     </script>
 </head>
 <body>
-<button id="bt" onclick="h()">hello</button>
+    <div id="box1"></div>
 </body>
 </html>
