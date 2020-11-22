@@ -24,13 +24,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="mac3">
-      <change afterPath="$PROJECT_DIR$/attribute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="jq大致体会到此结束">
+      <change afterPath="$PROJECT_DIR$/.idea/jQuery函数本质.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readyHold.html" beforeDir="false" afterPath="$PROJECT_DIR$/readyHold.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/startup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,7 @@
       <updated>1605795040283</updated>
       <workItem from="1605795041509" duration="1317000" />
       <workItem from="1605832085407" duration="12461000" />
-      <workItem from="1606026174207" duration="7003000" />
+      <workItem from="1606026174207" duration="7830000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1605842450593</created>
@@ -123,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606026312832</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="jq大致体会到此结束">
+      <created>1606034592353</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606034592353</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +148,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="mac3" />
-    <option name="LAST_COMMIT_MESSAGE" value="mac3" />
+    <MESSAGE value="jq大致体会到此结束" />
+    <option name="LAST_COMMIT_MESSAGE" value="jq大致体会到此结束" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="265" key="#Web_Browsers" timestamp="1606026684993">

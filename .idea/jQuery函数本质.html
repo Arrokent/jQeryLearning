@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- <script src="https://s3.pstatp.com/cdn/expire-1-M/jquery/3.3.1/jquery.min.js"></script> -->
+    <script src="jquery-3.5.1.js"></script>
+
+    <script>
+
+        $(function (ev) {
+
+        })
+
+        // 传统函数定义和执行
+        // 1.定义
+        function test() {
+            console.log("h");
+        }
+
+        // 2.执行
+        test();
+
+        // 立即执行函数
+        // 定义了函数后就执行
+        (function test() {
+            console.log("l");
+        })();
+
+
+    </script>
+</head>
+<body>
+    <div id="b"></div>
+</body>
+</html>
