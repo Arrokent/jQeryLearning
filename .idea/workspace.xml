@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event.html" afterDir="false" />
+    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605795040283</updated>
       <workItem from="1605795041509" duration="1317000" />
-      <workItem from="1605832085407" duration="8800000" />
+      <workItem from="1605832085407" duration="12150000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1605842450593</created>
@@ -79,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605842450593</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <created>1605951019040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605951019040</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +103,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="598" y="254" key="#Web_Browsers" timestamp="1605832968592">
@@ -119,5 +125,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="438" y="165" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605796345086" />
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605959366268">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1605959366268" />
   </component>
 </project>
